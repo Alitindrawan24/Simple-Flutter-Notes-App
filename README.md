@@ -1,3 +1,5 @@
+# Simple-Flutter-Notes-App
+Simple Notes App created using FLutter
 # flutter_notes_app
 
 A new Flutter project.
